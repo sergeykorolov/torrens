@@ -1,0 +1,29 @@
+// шрифты и переменные
+@import "variables";
+@import "fonts";
+
+@import "components/all";
+
+// обнуление, общие параметры
+@import "null-style";
+body {
+  color: #000000;
+  font-size: 14px;
+  font-family: $fontRoboto;
+  &._lock {
+    overflow: hidden;
+  }
+}
+
+.wrapper {
+  width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
