@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/torrens/static/css/main.055c4221.chunk.css",
-    "main.js": "/torrens/static/js/main.4e942f52.chunk.js",
-    "main.js.map": "/torrens/static/js/main.4e942f52.chunk.js.map",
+    "main.css": "/torrens/static/css/main.8d5b50ea.chunk.css",
+    "main.js": "/torrens/static/js/main.80a72358.chunk.js",
+    "main.js.map": "/torrens/static/js/main.80a72358.chunk.js.map",
     "runtime-main.js": "/torrens/static/js/runtime-main.be5bfd5c.js",
     "runtime-main.js.map": "/torrens/static/js/runtime-main.be5bfd5c.js.map",
-    "static/js/2.7cc01beb.chunk.js": "/torrens/static/js/2.7cc01beb.chunk.js",
-    "static/js/2.7cc01beb.chunk.js.map": "/torrens/static/js/2.7cc01beb.chunk.js.map",
+    "static/js/2.546db02c.chunk.js": "/torrens/static/js/2.546db02c.chunk.js",
+    "static/js/2.546db02c.chunk.js.map": "/torrens/static/js/2.546db02c.chunk.js.map",
     "index.html": "/torrens/index.html",
-    "static/css/main.055c4221.chunk.css.map": "/torrens/static/css/main.055c4221.chunk.css.map",
-    "static/js/2.7cc01beb.chunk.js.LICENSE.txt": "/torrens/static/js/2.7cc01beb.chunk.js.LICENSE.txt",
+    "static/css/main.8d5b50ea.chunk.css.map": "/torrens/static/css/main.8d5b50ea.chunk.css.map",
+    "static/js/2.546db02c.chunk.js.LICENSE.txt": "/torrens/static/js/2.546db02c.chunk.js.LICENSE.txt",
     "static/media/main.2057b486.jpg": "/torrens/static/media/main.2057b486.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.be5bfd5c.js",
-    "static/js/2.7cc01beb.chunk.js",
-    "static/css/main.055c4221.chunk.css",
-    "static/js/main.4e942f52.chunk.js"
+    "static/js/2.546db02c.chunk.js",
+    "static/css/main.8d5b50ea.chunk.css",
+    "static/js/main.80a72358.chunk.js"
   ]
 }
